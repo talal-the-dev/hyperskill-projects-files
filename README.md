@@ -1,2 +1,2 @@
 # hyperskill-projects-files
-Contains some Hyperskill Projects solve
+Contains some Hyperskill Projects solved
